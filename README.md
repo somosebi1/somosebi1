@@ -75,8 +75,8 @@
 
 ## Contact
 
-- **LinkedIn:** <your-linkedin-url>  
-- **Email:** <somosebi7@gmail.com>  
+- **LinkedIn:** <https://www.linkedin.com/in/samsonolu-o-41a16a388>  
+- **Email:** <omosoluwatoyin@gmail.com>  
 - **Portfolio:** <your-portfolio-url>
 
 ---
